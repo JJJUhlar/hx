@@ -1,3 +1,1 @@
-set -euo pipefail
-
-cp ./config.toml ~/.config/helix/config.toml
+echo "install helix config here"
